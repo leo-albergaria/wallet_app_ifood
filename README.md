@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/146803480-77e2af3c-b540-4868-aad5-6c4d5fdca56d.png" align="left" height="150px" width="150px">
+    <h1># Criando a interface do ifood com React Native</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Nesse projeto você irá criar a interface inicial do aplicativo iFood, com a listagem de restaurantes, carrousel de banner e categorias. Utilizado React Native, os Hooks do React para controle de estado, React Navigation para roteamento de telas na aplicação e integrando a uma API estática com apenas um JSON para listagem de dos restaurantes no app e muito mais!
     </p>
 </p>      
 
